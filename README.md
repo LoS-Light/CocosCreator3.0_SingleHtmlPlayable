@@ -1,7 +1,7 @@
 # CocosCreator3_SingleHtmlPlayable
 CocosCreator 3.0.0-3.0.1 Single Html Playable Demo
 
-CocosCreator 3.0 建構單一可玩式HTML  
+CocosCreator 3.0.0-3.0.1 建構單一可玩式HTML  
 您可以下載index.html來開啟觀看
 
 目前這自動化轉換為單一可玩式HTML的工具還在發展中  
